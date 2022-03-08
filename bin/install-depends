@@ -52,6 +52,7 @@ my %package_map = (
 	"debian::perl-Math-Round"		=> "libmath-round-perl",
 	"debian::perl-File-Slurp"		=> "libfile-slurp-perl",
 	"debian::perl-Time-HiRes"		=> "perl",
+	"debian::pkg-config"			=> "pkg-config",
 	"debian::popt-devel"			=> "libpopt-dev",
 	"debian::python3-devel"			=> "python3-dev",
 	"debian::rpcgen"			=> "rpcsvc-proto",
