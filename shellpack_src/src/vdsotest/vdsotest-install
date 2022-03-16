@@ -1,6 +1,6 @@
 #!/bin/bash
 ###SHELLPACK preamble vdsotest-install 0
-GIT_LOCATION=https://github.com/mpe/vdsotest.git
+GIT_LOCATION=https://github.com/nathanlynch/vdsotest.git
 #MIRROR_LOCATION="$WEBROOT/vdsotest/"
 
 install-depends automake autoconf
